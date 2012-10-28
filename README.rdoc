@@ -1,0 +1,10 @@
+== Description
+
+Script convert OSMO PIM contacts records (contacts_records.xml) to simple html format, using names as headers
+
+== Using
+
+./osmoconv.rb dir
+
+Where dir  - directory whith osmo contacts_records.xml ~/.osmo usually
+
